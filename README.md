@@ -67,15 +67,15 @@ A comprehensive business intelligence solution that analyzes pizza sales data to
 ## 📁 Project Structure
 Pizza-Sales-Analysis/
 ├── Data/
-│ └── pizza_sales_data.xlsx # Sample dataset
-├── Images/ # Dashboard screenshots
-│ ├── title-page.png
-│ ├── home-dashboard.png
-│ └── best-worst-sellers.png
+│   └── pizza_sales_data.xlsx
+├── Images/
+│   ├── title-page.png
+│   ├── home-dashboard.png
+│   └── best-worst-sellers.png
 ├── SQL/
-│ └── pizza_analysis_queries.sql # Complete analysis queries
-├── PowerBI-Dashboard.pbix # Main dashboard file
-└── README.md # Project documentation
+│   └── pizza_analysis_queries.sql
+├── PowerBI-Dashboard.pbix
+└── README.md
 
 ## 🔧 SQL Analysis Included
 The project includes comprehensive SQL queries for:
