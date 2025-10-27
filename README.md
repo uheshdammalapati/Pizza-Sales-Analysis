@@ -65,3 +65,43 @@ A comprehensive business intelligence solution that analyzes pizza sales data to
 3. Refresh the dashboard
 
 ## 📁 Project Structure
+Pizza-Sales-Analysis/
+├── Data/
+│ └── pizza_sales_data.xlsx # Sample dataset
+├── Images/ # Dashboard screenshots
+│ ├── title-page.png
+│ ├── home-dashboard.png
+│ └── best-worst-sellers.png
+├── SQL/
+│ └── pizza_analysis_queries.sql # Complete analysis queries
+├── PowerBI-Dashboard.pbix # Main dashboard file
+└── README.md # Project documentation
+
+## 🔧 SQL Analysis Included
+The project includes comprehensive SQL queries for:
+- **Data Cleaning**: NULL checks, duplicate removal, data validation
+- **KPI Calculations**: Revenue, orders, averages, percentages
+- **Trend Analysis**: Daily, weekly, monthly patterns
+- **Product Performance**: Top/Bottom sellers by multiple metrics
+- **Category Analysis**: Revenue distribution and volume metrics
+
+## 📊 Power BI Features
+- **Interactive Visualizations**: Click-through navigation and filters
+- **DAX Measures**: Dynamic calculations for real-time insights
+- **Professional Design**: Consistent color scheme and layout
+- **Multi-page Dashboard**: Organized information architecture
+
+## 💡 Business Recommendations
+Based on the analysis:
+1. **Inventory Optimization**: Focus on Classic category and Large sizes
+2. **Promotional Strategy**: Target weekend campaigns and peak seasons
+3. **Product Review**: Evaluate and improve bottom-performing pizzas
+4. **Staff Planning**: Increase resources during July and January peaks
+
+## 📞 Support
+For questions or suggestions, please open an issue in this repository.
+
+---
+**Developed with ❤️ using Power BI & SQL**
+
+*Note: This project demonstrates end-to-end business intelligence capabilities including data analysis, visualization, and strategic recommendations.*
